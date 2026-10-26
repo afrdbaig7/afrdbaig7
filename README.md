@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Afreed👋
 
-### FullStack Developer | Rust Learner | Bitcoin Enthusiast ⚡
+### FullStack Developer 
 
 👨‍💻 Building scalable MERN stack applications & backend systems  
 🦀 Learning Rust for systems programming & performance-critical tools  
